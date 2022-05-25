@@ -1,7 +1,7 @@
 # WebApiServer-NetCore6
 Server side in Net core to a CRUD app with JWT auth. 
 Instrucciones: 
-PAra ejecutar el proyecto se debe tener :
+Para ejecutar el proyecto se debe tener :
 -Visual Strudio 2022
 -Sql Server 
 -Microsft Sql management studio 18
